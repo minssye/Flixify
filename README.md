@@ -1,22 +1,23 @@
 # Flixify
+
 Flixify is a mirror of [Movie-Web](https://github.com/movie-web/movie-web) with some changes...
 
-**I *do not* endorse piracy of any kind I simply enjoy programming and large user counts.**
-
+**I _do not_ endorse piracy of any kind I simply enjoy programming and large user counts.**
 
 ## Links And Resources
+
 | Service        | Link                                               | Source Code                                              |
-|----------------|----------------------------------------------------|----------------------------------------------------------|
+| -------------- | -------------------------------------------------- | -------------------------------------------------------- |
 | Movie-Web Docs | [movie-web-docs](https://movie-web.github.io/docs) | [Source Code](https://github.com/movie-web/docs)         |
 | Extension      | [movie-web plugin](https://shorturl.at/iqzES)      | [Source Code](https://github.com/movie-web/extension)    |
 | Proxy          | [sudo-proxy](https://sudo-proxy1.sudo-flix.lol)    | [Source Code](https://gitlab.com/sudo-flix/simple-proxy) |
 | Backend        | [sudo-backend](https://backend.sudo-flix.lol)      | [Source Code](https://github.com/movie-web/backend)      |
-| Frontend       | [flixify](https://flixify-jet.vercel.app/)                 | [Source Code](https://github.com/SolomonChidera/Flixify)  |
+| Frontend       | [flixify](https://flixify-jet.vercel.app/)         | [Source Code](https://github.com/SolomonChidera/Flixify) |
 
 **I provide these if you are not able to host yourself, though I do encourage hosting the frontend.**
 
-
 ## Referrers
+
 - [Priacy Subreddit Megathread](https://www.reddit.com/r/Piracy/s/iymSloEpXn)
 - [Toon's Instances](https://erynith.github.io/movie-web-instances)
 - [Movie-Web Docs](https://movie-web.github.io/docs/instances)
@@ -24,9 +25,10 @@ Flixify is a mirror of [Movie-Web](https://github.com/movie-web/movie-web) with 
 - Search Engines: DuckDuckGo, Bing, Google
 - Rentry.co? (This ones a mystery)
 
-
 ## Running Locally
+
 Type the following commands into your terminal / command line to run Sudo-Flix locally
+
 ```bash
 git clone https://github.com/solomonchidera/Flixify.git
 cd Flixify
@@ -34,13 +36,15 @@ git pull
 pnpm install
 pnpm run dev
 ```
-Then you can visit the local instance [here](http://localhost:5173) or, at local host on port 5173.
 
+Then you can visit the local instance [here](http://localhost:5173) or, at local host on port 5173.
 
 ## Updating Instances
 
 ### Flixify
+
 To update a flixify instance you can type the below commands into a terminal at the root of your project.
+
 ```bash
 git remote add upstream https://github.com/sussy-code/smov.git
 git fetch sudo-flix  # Grab the contents of the new remote source
@@ -53,6 +57,7 @@ git push  # Push to YOUR repository
 ```
 
 ### movie-web
+
 To update a movie-web instance you can type the below commands into a terminal at the root of your project.  
 movie-web has two branches `master` and `dev` sudo-flix always merges the dev branch to get the most recent updates, master is just a stable branch.
 
@@ -69,7 +74,7 @@ git commit -m "Update movie-web instance (merge movie-web/master)"
 git push  # Push to YOUR repository
 ```
 
-
 ## Contact Me
-**Discord:** *solochidera*  
-**Email:** *[solomon](mailto:solochidera10@gmail.com)*
+
+**Discord:** _solochidera_  
+**Email:** _[solomon](mailto:solochidera10@gmail.com)_

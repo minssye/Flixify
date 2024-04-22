@@ -23,7 +23,7 @@
       "title": "What about my data and stuff?"
     },
     "q6": {
-      "body": "Well Flixify has a twitter account that can be found in the footer of this page as well as a link to the source code on Github.",
+      "body": "Well Flixify'a Author has a twitter account that can be found in the footer of this page as well as a link to the source code on Github.",
       "title": "How can I find out more?"
     },
     "title": "About Flixify (^▽^)"
@@ -193,7 +193,7 @@
       "about": "About us",
       "donation": "Donate",
       "logout": "Log out",
-      "register": "Sync to sudo-cloud",
+      "register": "Sync to cloud",
       "settings": "Settings",
       "support": "Support"
     }
@@ -209,7 +209,7 @@
     "badge": "Issues",
     "goHome": "Go home",
     "message": "Flixify is experiencing issues with some providers again, if you cant find or play a show please change the source. Expect this error to persist throughout the below times.",
-    "timeFrame": "<bold>March 31th 11:00 PM - 5:00 AM EST</bold>",
+    "timeFrame": "<bold>Apr 31th 11:00 PM - 5:00 AM EST</bold>",
     "title": "Provider issues"
   },
   "onboarding": {
@@ -257,7 +257,7 @@
       "explainer": "To get the best streams possible, you will need to choose which streaming method you want to use.",
       "options": {
         "default": {
-          "text": "I don't want good quality streams,<0 /> <1>use the default setup ▄︻デ══━一 ʕ•͡-•ʔ</1>"
+          "text": "I don't want good quality streams,<0 /> <1>use the default setup</1>"
         },
         "extension": {
           "action": "Install extension",
@@ -317,7 +317,7 @@
         "loadingError": "Error loading season",
         "loadingList": "Loading...",
         "loadingTitle": "Loading...",
-        "unairedEpisodes": "One or more episodes in this season have been disabled because they haven't been aired yet... Whomp Whomp!"
+        "unairedEpisodes": "One or more episodes in this season have been disabled because they haven't been aired yet..."
       },
       "playback": {
         "speedLabel": "Playback speed",
@@ -350,7 +350,7 @@
           "title": "No embeds found"
         },
         "noStream": {
-          "text": "This source has no streams for this movie or show. /ᐠ - ˕ -マ Ⳋ",
+          "text": "This source has no streams for this movie or show, check back later",
           "title": "No stream :("
         },
         "title": "Sources",
@@ -383,7 +383,7 @@
       "extensionPermission": {
         "badge": "Permission Missing",
         "button": "Use extension",
-        "text": "You have the browser extension, but we need your permission to get started using the extension. (¬_¬)",
+        "text": "You have the browser extension, but we need your permission to get started using the extension.",
         "title": "Configure the extension"
       },
       "failed": {
@@ -420,7 +420,7 @@
     "scraping": {
       "items": {
         "failure": "Error occurred",
-        "notFound": "Doesn't have the video (╥﹏╥)",
+        "notFound": "Video not found here",
         "pending": "Checking for videos..."
       },
       "notFound": {
@@ -446,10 +446,10 @@
       "shortRemaining": "-{{timeLeft}}"
     },
     "turnstile": {
-      "description": "Please prove your humanity by completing the Captcha on the right. This is to keep Flixify.lol safe!",
+      "description": "Please prove your humanity by completing the Captcha on the right. This is to keep Flixify safe!",
       "error": "Failed to verify your humanity! Please try again.",
       "title": "Are You a Robot 🤖?",
-      "verifyingHumanity": "Verifying your humanity... (^▽^)👍"
+      "verifyingHumanity": "Verifying your humanity..."
     }
   },
   "support": {
@@ -466,7 +466,7 @@
   },
   "screens": {
     "dmca": {
-      "text": "Welcome to Flixify's DMCA contact page. If you believe your copyrighted work has been improperly used on our platform (😢), please send a detailed DMCA notice to: <bold>dev@Flixify.lol</bold> below. Please include a description of the copyrighted material, your contact details, and a statement of good faith belief. We're committed to resolving these matters promptly and appreciate your cooperation.",
+      "text": "Welcome to Flixify's DMCA contact page. If you believe your copyrighted work has been improperly used on our platform (😢), please send a detailed DMCA notice to: <bold>solochidera10@gmail.com</bold> below. Please include a description of the copyrighted material, your contact details, and a statement of good faith belief. We're committed to resolving these matters promptly and appreciate your cooperation.",
       "title": "DMCA :("
     },
     "loadingApp": "Loading application",
@@ -479,7 +479,7 @@
       "textWithReset": "Failed to load your profile from your custom server, want to reset back to the default server?"
     },
     "migration": {
-      "failed": "Failed to migrate your data. 😿",
+      "failed": "Failed to migrate your data, Please try again.",
       "inProgress": "Please hold, we are migrating your data. This shouldn't take long..."
     }
   },
@@ -500,7 +500,7 @@
         "delete": {
           "button": "Delete account",
           "confirmButton": "Delete account",
-          "confirmDescription": "Are you sure you want to delete your account? All your data will be lost! ૮₍˶Ó﹏Ò ⑅₎ა",
+          "confirmDescription": "Are you sure you want to delete your account? All your data will be lost!",
           "confirmTitle": "Are you sure?",
           "text": "This action is irreversible. All data will be deleted and nothing can be recovered.",
           "title": "Delete account"
@@ -522,7 +522,7 @@
       },
       "register": {
         "cta": "Get started",
-        "text": "Share your watch progress between devices and keep them synced. ( ̧⸝⸝⍢⸝⸝)ෆ",
+        "text": "Share your watch progress between devices and keep them synced.",
         "title": "Sync to the cloud"
       },
       "title": "Account"
@@ -550,7 +550,7 @@
           "description": "It seems that one or more items in this setup need your attention.",
           "title": "Something needs your attention 😱"
         },
-        "itemError": "There is something wrong with this setting. Go through setup again to fix it. (ᴗ_ ᴗ。)",
+        "itemError": "There is something wrong with this setting. Go through setup again to fix it.",
         "items": {
           "default": "Default setup",
           "extension": "Extension",
@@ -558,7 +558,7 @@
         },
         "redoSetup": "Redo setup",
         "successStatus": {
-          "description": "All things are in place for you to start watching your favorite media. (๑>◡<๑)",
+          "description": "All things are in place for you to start watching your favorite media. Enjoy! 🎉",
           "title": "Everything is set up!"
         },
         "unsetStatus": {
@@ -570,7 +570,7 @@
       "workers": {
         "addButton": "Add new worker",
         "description": "To make the application function, all traffic is routed through proxies. Enable this if you want to bring your own workers. <0>Instructions.</0>",
-        "emptyState": "No workers yet (｡•́︿•̀｡), add one below",
+        "emptyState": "No workers yet, add one below",
         "label": "Use custom proxy workers",
         "urlLabel": "Worker URLs",
         "urlPlaceholder": "https://"
@@ -607,10 +607,10 @@
       "backgroundLabel": "Background opacity",
       "backgroundBlurLabel": "Background blur",
       "colorLabel": "Color",
-      "previewQuote": "Would you rather have a thot daughter or a gay son? 🤔",
+      "previewQuote": "Would you rather code on notepad or in emacs 🤔",
       "textSizeLabel": "Text size",
       "title": "Subtitles"
     },
-    "unsaved": "You have unsaved changes... ฅ^•ﻌ•^ฅ"
+    "unsaved": "You have unsaved changes..."
   }
 }
