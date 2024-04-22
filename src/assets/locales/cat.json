@@ -124,9 +124,7 @@
     "titles": {
       "day": {
         "default": "What would you like to meow this meow?",
-        "extra": [
-          "Feeling meow? Jurassic meow meow meow meow perfect meow."
-        ]
+        "extra": ["Feeling meow? Jurassic meow meow meow meow perfect meow."]
       },
       "morning": {
         "default": "What would you like to meow this meow?",
