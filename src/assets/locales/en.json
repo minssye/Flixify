@@ -137,7 +137,6 @@
         "default": "What do you want to watch?",
         "extra": [
           "What are you in the mood for?",
-          "Should we delete your browser history?",
           "What do you want to stream?",
           "Flixify is the best site ever!",
           "What's on your watchlist today?",
@@ -162,7 +161,7 @@
         "extra": ["Can't go wrong with Friends"],
         "extra": ["I hear The Expanse is popular"],
         "extra": ["Have you tried watch party with flexify?"],
-        "extra": ["It took 3 days to come up The Name Flixify"]
+        "extra": ["It took 3 days to come up with The Name Flixify"]
       },
       "night": {
         "default": "What would you like to watch tonight?",
@@ -421,7 +420,7 @@
       "items": {
         "failure": "Error occurred",
         "notFound": "Video not found here",
-        "pending": "Checking for videos..."
+        "pending": "Looking for the video..."
       },
       "notFound": {
         "badge": "Not found",
@@ -607,7 +606,7 @@
       "backgroundLabel": "Background opacity",
       "backgroundBlurLabel": "Background blur",
       "colorLabel": "Color",
-      "previewQuote": "Would you rather code on notepad or in emacs 🤔",
+      "previewQuote": "Would you rather code on notepad or emacs 🤔",
       "textSizeLabel": "Text size",
       "title": "Subtitles"
     },
