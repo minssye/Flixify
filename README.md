@@ -46,13 +46,13 @@ Then you can visit the local instance [here](http://localhost:5173) or, at local
 To update a flixify instance you can type the below commands into a terminal at the root of your project.
 
 ```bash
-git remote add upstream https://github.com/sussy-code/smov.git
-git fetch sudo-flix  # Grab the contents of the new remote source
+git remote add upstream https://github.com/SolomonChidera/Flixify.git
+git fetch Flixify  # Grab the contents of the new remote source
 git checkout <YOUR_MAIN_BRANCH>  # Most likely this would be `origin/main`
 git merge upstream/main
 # * Fix any conflicts present during merge *
 git add .  # Add all changes made during merge and conflict fixing
-git commit -m "Update sudo-flix instance (merge upstream/main)"
+git commit -m "Update Flixify instance (merge upstream/main)"
 git push  # Push to YOUR repository
 ```
 
