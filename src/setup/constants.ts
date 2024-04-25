@@ -1,5 +1,5 @@
 export const APP_VERSION = import.meta.env.PACKAGE_VERSION;
-export const DISCORD_LINK = "https://movie-web.github.io/links/discord";
+export const DISCORD_LINK = "https://discord.gg/RrEWfQKqWz";
 export const GITHUB_LINK = "https://github.com/SolomonChidera/Flixify";
 export const TWITTER_LINK = "https://twitter.com/solomonchidera_";
 export const DONATION_LINK = "https://ko-fi.com/movieweb";
